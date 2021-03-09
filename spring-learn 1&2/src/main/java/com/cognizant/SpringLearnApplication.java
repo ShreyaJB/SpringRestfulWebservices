@@ -16,10 +16,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.cognizant.springlearn.country.Country;
 
-/**
- * @author shiyam
- *
- */
+
 @SpringBootApplication
 public class SpringLearnApplication {
 	private static final Logger LOGGGER = LoggerFactory.getLogger(SpringLearnApplication.class);
